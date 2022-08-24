@@ -20,3 +20,18 @@ justify-content: center;}
 .h2, .quienes{
    color: rgb(235, 157, 57);
 }
+
+header {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+
+}
+.body{
+    background-color: rgb(242, 189, 124);
+}
